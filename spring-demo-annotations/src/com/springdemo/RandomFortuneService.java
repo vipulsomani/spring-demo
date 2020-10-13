@@ -6,7 +6,7 @@ import org.springframework.stereotype.Component;
 
 @Component
 public class RandomFortuneService implements FortuneService {
-	
+	 
 	//create array of string
 	private String []data = {
 			"beware","dilligence","journey"
